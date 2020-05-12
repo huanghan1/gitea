@@ -25,6 +25,8 @@ systemctl daemon-reload
 
 systemctl gitea restart
 
+gitea 默认 1.1.0 后就支持lfs
+
 gitea 支持lfs 
 
 安装 Git LFS 需要 Git 的版本不低于 1.8.5
