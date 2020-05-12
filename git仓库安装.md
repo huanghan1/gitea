@@ -56,9 +56,3 @@ git lfs install
 将代码 push 到远程仓库后，LFS 跟踪的文件会以『Git LFS』的形式显示:
 clone 时 使用'git clone' 或 git lfs clone均可
 
-作者：amosbake
-链接：https://www.jianshu.com/p/493b81544f80
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-
